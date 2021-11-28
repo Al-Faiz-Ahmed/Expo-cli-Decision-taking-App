@@ -47,7 +47,7 @@ export default function Authentic() {
     
     async function logIn() {
         // faacebook app Id    
-        // 303389848231534
+        
         await Facebook.initializeAsync({
             appId: 'xxxxxxxxxxxxxxxx'
         });
